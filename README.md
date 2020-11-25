@@ -1,1 +1,2 @@
-# python_teachings
+# A Repo For Teaching Python
+
